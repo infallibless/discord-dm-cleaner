@@ -1,3 +1,4 @@
+![:)](https://hits.seeyourwebsite.com/track.svg?url=https://github.com/infallibless/discord-dm-cleaner)
 
 # Discord DM Cleaner
 
