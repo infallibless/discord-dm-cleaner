@@ -52,7 +52,7 @@ To get the user ID of a Discord user, you can enable "Developer Mode" in Discord
 Once everything is set up, you can run the script using the following command:
 
 ```bash
-node <del>.js
+node del.js
 ```
 
 This will start the process of deleting your DMs while respecting the whitelist. The script will also update your Discord status to indicate the cleaning process.
