@@ -25,7 +25,7 @@ const deletemessage = async (channelid) => { let messages;
 
 const deletealldms = async () => {
     try {
-        console.log(color.yellow('[INFO] status added ...')), console.log(setstatus);
+        console.log(color.yellow('[INFO] status added...')), console.log(setstatus);
         await setstatus('dm is clearing... || github.com/infallibless');
         for (const { id } of await (await fetch('https://discord.com/api/v9/users/@me/channels', {headers})).json()) {
             await deletemessage(id);
