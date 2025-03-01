@@ -18,7 +18,7 @@ This script is designed to clean your Discord DMs by deleting messages. It allow
 
 ### 1. Clone the repository or download the project files:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/infallibless/discord-dm-cleaner.git
 ```
 
 ### 2. Install dependencies:
