@@ -1,5 +1,3 @@
-![Hits](https://img.shields.io/badge/discord-dm-cleaner)
-
 # Discord DM Cleaner
 
 This script is designed to clean your Discord DMs by deleting messages. It allows you to easily delete all DMs except for the ones from whitelisted users, and it also updates your custom status to indicate the cleaning process.
