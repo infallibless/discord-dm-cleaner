@@ -1,4 +1,4 @@
-![hit](https://github.com/infallibless/discord-dm-cleaner)
+![Hits](https://img.shields.io/infallibless/discord-dm-cleaner)
 
 # Discord DM Cleaner
 
